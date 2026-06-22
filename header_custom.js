@@ -1,0 +1,1 @@
+const blogUrl='$HOME_PAGE_LINK$',blogID='false',postID='false',blogTitle='plusui',isPreview='false',isHomepage='true',isSearch='false',isBlog='false',isSingleItem='false',isPost='false',isPage='false',isError='false',isMobile='false',isPrivateBlog='false',analyticsID='false',caPubAdsense='false',licenseKey='';
